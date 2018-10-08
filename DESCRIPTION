@@ -8,12 +8,7 @@ Description: The Word Evoked Package was created with the propose to transform
   a dataset of evocations collected respecting the Free Word Association Technique's 
   rules in objects compatibles with igraph's input.
 License: GPL-2
-Depends:
-    data.table, 
-    igraph, 
-    sand, 
-    fmsb, 
-    ggplot2
+Depends: R (>= 3.1.0)
 Imports:
     data.table, 
     igraph, 
